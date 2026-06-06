@@ -1,0 +1,13 @@
+31 May 2026, OD
+- Inspected ICA for subjects 0-10.
+- Applied manual corrections.
+- Inspected final reports
+sub-eeg-10 - cardiac artefact is left despite my efforts
+
+1 June 2026
+- Inspected all other ICA
+- Applied manual correction
+
+4 Jun 2026
+- Annotated all conditions
+- Corrected ICA to improve noise filtering for some subjects
